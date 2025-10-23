@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Cybersecurity%20and%20AI%20Expert)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=511&height=103&lines=Cybersecurity+and+AI+Expert;Ensuring+Secure+Systems;Always+learning+and+growing)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Bob Kanja
 - 👀 I’m interested in Cybersecurity | AI | Ethical Hacking | Linux | CTF games
