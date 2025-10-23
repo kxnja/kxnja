@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20and%20Ai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Cybersecurity%20and%20AI)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @Bob Kanja
