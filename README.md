@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20and%20Ai)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m @Bob Kanja
 - 👀 I’m interested in cybersecurity | ethical hacking | Linux | CTF games
 - 🌱 I’m currently learning ... Mathematics and Computer Science also learning cybersecurity on the side and I already passed my CC exam from ISC2 exam and working on getting my Comptia security+
