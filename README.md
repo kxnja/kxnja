@@ -9,7 +9,7 @@
 - 🔧Tools I use:
 Kali Linux | Nmap | Wireshark | Metasploit | Burp Suite | Python | Bash | Splunk
 
-- 🚩Currently I am working on some CTFs I get from vulnhub, Vulnmachines and Try hack me
+- 🚩Currently I am working on some CTFs I get from Vulnhub, Vulnmachines and Try hack me
 <!---
 kxnja/kxnja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
