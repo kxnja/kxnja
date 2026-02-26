@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=511&height=103&lines=Cybersecurity+and+AI+Expert;Ensuring+Secure+Systems;Always+learning+and+growing)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Bob Kanja
-- 👀 I’m interested in Cybersecurity | AI | Ethical Hacking | Linux | CTF games
+- 👀 I’m interested in Cybersecurity | AI | Ethical Hacking | Linux | CTF
 - 🌱 I’m currently learning ... Mathematics and Computer Science also learning cybersecurity on the side and I already passed my CC exam from ISC2 exam and working on getting my Comptia security+
 - 💞️ I’m looking to collaborate on SIEM projects and CTFs. 
 - 📫 You can reach me on bobkimani85@gmail.com  
